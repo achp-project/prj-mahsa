@@ -247,7 +247,7 @@
                         "en": "",
                         "ur": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Title",
                         "ur": "Title"
@@ -402,7 +402,7 @@
                         "en": "",
                         "ur": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Description",
                         "ur": "Description"
@@ -2852,10 +2852,16 @@
             "publication": {
                 "graph_id": "f6a8801c-cc7c-11ec-8903-fa163e2afc92",
                 "notes": null,
-                "publicationid": "7ba4e9f8-aea2-11f0-9bc4-0735617281e5",
-                "published_time": "2025-10-21T12:22:13.082"
+                "publicationid": "d27753e0-b282-11f0-9bc4-0735617281e5",
+                "published_time": "2025-10-26T10:45:39.501"
             },
-            "relatable_resource_model_ids": [],
+            "relatable_resource_model_ids": [
+                "7ddbb2c0-5b84-11ed-8903-fa163e2afc92",
+                "2d77d45a-c56e-11ec-8903-fa163e2afc92",
+                "210adbde-d968-4879-bcf6-10566064b677",
+                "00daf15c-c56e-11ec-8903-fa163e2afc92",
+                "8d765e70-b69b-11ed-8613-efcdc71353a1"
+            ],
             "resource_2_resource_constraints": [],
             "root": {
                 "alias": "information_resource_model_v1",
@@ -2885,11 +2891,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 14.19 (Ubuntu 14.19-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0, 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Linux",
-        "os version": "5.15.0-88-generic"
-    }
+    ]
 }

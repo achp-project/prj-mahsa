@@ -89,7 +89,7 @@
                     },
                     "is_editable": false,
                     "name": {
-                        "en": "Place 2",
+                        "en": "Place",
                         "ur": "Place 2"
                     },
                     "nodegroup_id": "00daf16c-c56e-11ec-8903-fa163e2afc92",
@@ -342,7 +342,7 @@
                         "en": "",
                         "ur": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Administrative Subdivision",
                         "ur": "Administrative Subdivision"
@@ -943,7 +943,7 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "f5d34c90-c7a8-11ec-8903-fa163e2afc92",
                     "parentnodegroup_id": null
@@ -1211,7 +1211,7 @@
                 {
                     "alias": "activity_type",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "56de89f5-51ba-4f6e-9f7a-94249719b395"
                     },
                     "datatype": "concept",
                     "description": "",
@@ -1279,8 +1279,10 @@
                 },
                 {
                     "alias": "adminsitrative_subdivision_name",
-                    "config": {},
-                    "datatype": "semantic",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
                     "description": null,
                     "exportable": false,
                     "fieldname": null,
@@ -1458,10 +1460,17 @@
             "publication": {
                 "graph_id": "00daf15c-c56e-11ec-8903-fa163e2afc92",
                 "notes": null,
-                "publicationid": "3e127164-aea7-11f0-9bc4-0735617281e5",
-                "published_time": "2025-10-21T12:56:17.265"
+                "publicationid": "4539a600-b367-11f0-9bc4-0735617281e5",
+                "published_time": "2025-10-27T14:00:57.289"
             },
-            "relatable_resource_model_ids": [],
+            "relatable_resource_model_ids": [
+                "7ddbb2c0-5b84-11ed-8903-fa163e2afc92",
+                "8d765e70-b69b-11ed-8613-efcdc71353a1",
+                "f7903238-e72d-11ec-8903-fa163e2afc92",
+                "f6a8801c-cc7c-11ec-8903-fa163e2afc92",
+                "2d77d45a-c56e-11ec-8903-fa163e2afc92",
+                "210adbde-d968-4879-bcf6-10566064b677"
+            ],
             "resource_2_resource_constraints": [],
             "root": {
                 "alias": "activity_resource_model_v2",
@@ -1491,11 +1500,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 14.19 (Ubuntu 14.19-0ubuntu0.22.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0, 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Linux",
-        "os version": "5.15.0-88-generic"
-    }
+    ]
 }
