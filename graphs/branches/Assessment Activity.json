@@ -307,8 +307,266 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodegroupid": "01828e0a-e6d0-11ee-a66e-b3f922627490",
                     "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "816265b0-b69c-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e71-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e73-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea7-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e75-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765eb3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e79-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765eb3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e7b-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e7d-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e7f-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e81-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e95-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e83-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e85-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e87-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e89-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e8b-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e8d-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e8f-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e91-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e93-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e95-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e97-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e99-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e9d-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765e9f-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ea1-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ea3-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ea5-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ea7-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ea9-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eab-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ead-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eaf-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eb1-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eb3-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eb5-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765eb9-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ebb-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ebd-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ebf-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ec1-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e97-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ec3-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e9f-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ec5-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765ef1-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765ea3-b69b-11ed-8613-efcdc71353a1"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8d765f03-b69b-11ed-8613-efcdc71353a1",
+                    "parentnodegroup_id": "8d765e95-b69b-11ed-8613-efcdc71353a1"
                 }
             ],
             "nodes": [
