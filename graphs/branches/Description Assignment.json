@@ -1,0 +1,255 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "0e899a98-57ed-11f0-856f-f5da389eea6e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": "",
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": "",
+                        "ur": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Description Assignment"
+                    },
+                    "nodegroup_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 5,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "0e899a98-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Description",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "0e899a9b-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Description"
+                    },
+                    "node_id": "0e899a99-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "0e899a98-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Description Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "0e899a9c-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Description Type"
+                    },
+                    "node_id": "0e899a9a-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                }
+            ],
+            "color": "rgba(214,45,197,1)",
+            "config": {
+                "activeTabIndex": 1,
+                "tabs": [
+                    {
+                        "icon": "fa fa-adjust",
+                        "name": "",
+                        "nodegroup_ids": [
+                            "8d765ea5-b69b-11ed-8613-efcdc71353a1"
+                        ]
+                    },
+                    {
+                        "icon": "fa fa-adjust",
+                        "name": "",
+                        "nodegroup_ids": [
+                            "8d765ec5-b69b-11ed-8613-efcdc71353a1"
+                        ]
+                    }
+                ]
+            },
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "0e899a9d-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "rangenode_id": "0e899a99-57ed-11f0-856f-f5da389eea6e"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "0e899a9e-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "0e899a9a-57ed-11f0-856f-f5da389eea6e"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+            "iconclass": "fa fa-university",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Description Assignment"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "description_assignment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": "",
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Description Assignment",
+                    "nodegroup_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment",
+                    "parentproperty": "",
+                    "sortorder": 15,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "description",
+                    "config": {},
+                    "datatype": "string",
+                    "description": "Represents a single node in a graph",
+                    "exportable": true,
+                    "fieldname": "Desc",
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description",
+                    "nodegroup_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "0e899a99-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E62_String",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P3_has_note",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "description_type",
+                    "config": {
+                        "rdmCollection": "0b90f4a1-3c86-4dd3-9478-70cfc57826b7"
+                    },
+                    "datatype": "concept",
+                    "description": "Represents a single node in a graph",
+                    "exportable": true,
+                    "fieldname": "DescType",
+                    "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Description Type",
+                    "nodegroup_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "0e899a9a-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "publication": {
+                "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                "notes": null,
+                "publicationid": "0e899a9f-57ed-11f0-856f-f5da389eea6e",
+                "published_time": "2025-07-03T04:06:51.153"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "description_assignment",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": "",
+                "graph_id": "0e899a96-57ed-11f0-856f-f5da389eea6e",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Description Assignment",
+                "nodegroup_id": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                "nodeid": "0e899a97-57ed-11f0-856f-f5da389eea6e",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E13_Attribute_Assignment",
+                "sortorder": 15,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "065361ba-57ed-11f0-856f-f5da389eea6e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": "",
+                        "ur": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Assessment Activity"
+                    },
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 1,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "065361ba-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Assessor's Name",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "065361c0-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Assessor's Name"
+                    },
+                    "node_id": "065361be-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "065361ba-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Proposed Completion Activities",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "065361c1-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Proposed Completion Activities"
+                    },
+                    "node_id": "065361bd-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "065361ba-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Assessment Type",
+                        "options": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "5ad4392e-991e-4dfe-bb52-7e3af8afe6bb",
+                                        "id": "704eb393-2473-4609-a33e-5a66dd352ca3",
+                                        "sortorder": "",
+                                        "text": "Condition Assessment/Survey"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "31f80070-c2fa-4688-b8d4-3713c637a3b3",
+                                        "id": "029fbcea-e567-40ae-b0f8-99242df32a32",
+                                        "sortorder": "",
+                                        "text": "Emergency Impact Assessment"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "9c61dc4e-cec2-4ff8-bd6b-031ab08e9687",
+                                        "id": "b2a80219-cd3f-4a3f-a918-90e39fdb9489",
+                                        "sortorder": "",
+                                        "text": "Ground Truthing/Field Survey/Field Observation"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "30f89303-fc3e-4693-98d6-471a7e41dfbf",
+                                        "id": "7e34f80f-4bf3-42f6-bbc1-a0b482cc176c",
+                                        "sortorder": "",
+                                        "text": "Salvage Recording"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "dc687a6b-d37c-4e21-8cc1-49d7be0c240d",
+                                        "id": "5ed3b423-f23b-4931-ad50-99793c2a1a2f",
+                                        "sortorder": "",
+                                        "text": "Transect Survey/Systematic Fieldwalking Survey"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "b0d39995-31f8-461c-8145-ef9a5eab318d",
+                                        "id": "74e69d7c-8ffa-43eb-bfdb-cda1912048a4",
+                                        "sortorder": "",
+                                        "text": "Unsystematic Fieldwalking Survey"
+                                    }
+                                ],
+                                "collector": "",
+                                "conceptid": "0ea83ae7-6e33-4491-a48e-44dfadc35258",
+                                "id": "ec83ecb9-434d-47d6-ad68-7c4abd71c271",
+                                "sortorder": "",
+                                "text": "Field Activities"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "55e9e272-9bba-4ab6-983e-efb4ad4d9242",
+                                        "id": "8b76f97e-d09a-479a-962c-9731e13dc88f",
+                                        "sortorder": "",
+                                        "text": "Condition Assessment Using Remote Sensing Methods"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "0d663395-f57c-491d-b7d4-c036b24ab0b9",
+                                        "id": "56753655-3780-4dea-98b2-c33b9eb1139a",
+                                        "sortorder": "",
+                                        "text": "Data Cleaning/Enhancing"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "e6e6e8fa-8ec2-41a4-a260-3c3e15dd3890",
+                                        "id": "8c295c0f-dc55-410a-a11b-b72b204852e7",
+                                        "sortorder": "",
+                                        "text": "Imagery Interpretation"
+                                    },
+                                    {
+                                        "children": [],
+                                        "collector": "",
+                                        "conceptid": "8e7d114a-8349-481e-8322-69a79eeaeabe",
+                                        "id": "bfba7135-4729-48d6-8873-1117b265c752",
+                                        "sortorder": "",
+                                        "text": "Legacy Data Digitisation/Interpretation"
+                                    }
+                                ],
+                                "collector": "",
+                                "conceptid": "1dac9aa4-fc53-4641-adc5-6fba7833b51a",
+                                "id": "cb1bf030-d78c-4127-af48-6865509e6f38",
+                                "sortorder": "",
+                                "text": "Remote and Desk Assessment"
+                            }
+                        ],
+                        "placeholder": {
+                            "en": "Select an option"
+                        },
+                        "url": "/concepts/dropdown?conceptid=dd6506d9-e324-4e8c-8299-a3bbc0a127b2"
+                    },
+                    "id": "065361c2-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Assessment Type"
+                    },
+                    "node_id": "065361bc-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "065361ba-57ed-11f0-856f-f5da389eea6e",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Date of Assessment",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "065361c3-57ed-11f0-856f-f5da389eea6e",
+                    "label": {
+                        "en": "Date of Assessment"
+                    },
+                    "node_id": "065361bf-57ed-11f0-856f-f5da389eea6e",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                }
+            ],
+            "color": "rgba(214,45,197,1)",
+            "config": {
+                "activeTabIndex": 1,
+                "tabs": [
+                    {
+                        "icon": "fa fa-adjust",
+                        "name": "",
+                        "nodegroup_ids": [
+                            "8d765ea5-b69b-11ed-8613-efcdc71353a1"
+                        ]
+                    },
+                    {
+                        "icon": "fa fa-adjust",
+                        "name": "",
+                        "nodegroup_ids": [
+                            "8d765ec5-b69b-11ed-8613-efcdc71353a1"
+                        ]
+                    }
+                ]
+            },
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "065361bb-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "065361c4-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P78_is_identified_by",
+                    "rangenode_id": "065361bf-57ed-11f0-856f-f5da389eea6e"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "065361c5-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "065361bd-57ed-11f0-856f-f5da389eea6e"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "065361c6-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "065361bb-57ed-11f0-856f-f5da389eea6e"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "065361c7-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "rangenode_id": "065361be-57ed-11f0-856f-f5da389eea6e"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "edgeid": "065361c8-57ed-11f0-856f-f5da389eea6e",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "065361bc-57ed-11f0-856f-f5da389eea6e"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "065361b8-57ed-11f0-856f-f5da389eea6e",
+            "iconclass": "fa fa-university",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Assessment Activity"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "assessment_activity",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Assessment Activity",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                    "parentproperty": "",
+                    "sortorder": 1,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "assessment_activity_time_span",
+                    "config": {},
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assessment Activity Time Span",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361bb-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "assessment_type",
+                    "config": {
+                        "rdmCollection": "dd6506d9-e324-4e8c-8299-a3bbc0a127b2"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": "AssessType",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assessment Type",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361bc-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "proposed_completion_activities",
+                    "config": {
+                        "rdmCollection": "ba234919-8c36-4bd9-9152-3f089317ac48"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": "ProConAct",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Proposed Completion Activities",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361bd-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "assessor",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "2d77d45a-c56e-11ec-8903-fa163e2afc92",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "Person_Organization",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "nodeid": null,
+                        "property": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": "AssessorNa",
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Assessor",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361be-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "date_of_assessment",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "edtf",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Date of Assessment",
+                    "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                    "nodeid": "065361bf-57ed-11f0-856f-f5da389eea6e",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E50_Date",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P78_is_identified_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "publication": {
+                "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                "notes": null,
+                "publicationid": "065361c9-57ed-11f0-856f-f5da389eea6e",
+                "published_time": "2025-07-03T04:06:37.396"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "assessment_activity",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "065361b8-57ed-11f0-856f-f5da389eea6e",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Assessment Activity",
+                "nodegroup_id": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                "nodeid": "065361b9-57ed-11f0-856f-f5da389eea6e",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                "sortorder": 1,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}
